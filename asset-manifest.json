@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sathya-cs/react-frontend-assessment/static/css/main.c64abd1b.css",
+    "main.js": "/sathya-cs/react-frontend-assessment/static/js/main.626ce711.js",
+    "index.html": "/sathya-cs/react-frontend-assessment/index.html",
+    "main.c64abd1b.css.map": "/sathya-cs/react-frontend-assessment/static/css/main.c64abd1b.css.map",
+    "main.626ce711.js.map": "/sathya-cs/react-frontend-assessment/static/js/main.626ce711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64abd1b.css",
+    "static/js/main.626ce711.js"
+  ]
+}
