@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sathya-cs/react-frontend-assessment/static/css/main.c64abd1b.css",
-    "main.js": "/sathya-cs/react-frontend-assessment/static/js/main.626ce711.js",
-    "index.html": "/sathya-cs/react-frontend-assessment/index.html",
-    "main.c64abd1b.css.map": "/sathya-cs/react-frontend-assessment/static/css/main.c64abd1b.css.map",
-    "main.626ce711.js.map": "/sathya-cs/react-frontend-assessment/static/js/main.626ce711.js.map"
+    "main.css": "/react-frontend-assessment/static/css/main.c64abd1b.css",
+    "main.js": "/react-frontend-assessment/static/js/main.626ce711.js",
+    "index.html": "/react-frontend-assessment/index.html",
+    "main.c64abd1b.css.map": "/react-frontend-assessment/static/css/main.c64abd1b.css.map",
+    "main.626ce711.js.map": "/react-frontend-assessment/static/js/main.626ce711.js.map"
   },
   "entrypoints": [
     "static/css/main.c64abd1b.css",
